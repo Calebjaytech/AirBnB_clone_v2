@@ -8,7 +8,7 @@ echo "<!DOCTYPE html>
 <html>
   <head>
   </head>
-  <body>
+ <body>
     <p>Nginx server test</p>
   </body>
 </html>" | tee /data/web_static/releases/test/index.html
